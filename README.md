@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a wallet app.<br>Self-taught full stack developer.<br>Learning how to use React better and hoping to transition to solidity sometime.<br>Currently in College Limbo.
+I'm currently taking a class on Udemy.<br>Self-taught full stack developer.<br>Learning how to use React better and hoping to transition to solidity sometime.<br>Currently in College Limbo.
 
 
 ## 🌐 Socials:
